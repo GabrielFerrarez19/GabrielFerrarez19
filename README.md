@@ -31,7 +31,7 @@ Desenvolvedor apaixonado por tecnologia, desenvolvimento web e mobile. Atualment
 
 ## 📊 Estatísticas GitHub
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielFerrarez19&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielFerrarez19&show_icons=true&theme=tokyonight&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFerrarez19&layout=compact&theme=tokyonight)
 
