@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://ptsolutionss.com">
-    <img src="https://img.shields.io/badge/PT_Solutions-0A2540?style=for-the-badge&logo=vercel&logoColor=00D9A5" />
+    <img src="https://img.shields.io/badge/ProTrack_Solutions-0A2540?style=for-the-badge&logo=vercel&logoColor=00D9A5" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor full stack e estudante de Sistemas de Informação na Faculdade Libertas. Atuo como desenvolvedor solo no **ProTrack**, um ERP SaaS B2B multi-tenant voltado para pequenas e médias empresas do varejo brasileiro, desenvolvido sob a **PT Solutions**. Também trabalho em projetos como desenvolvedor em outras empresas, incluindo sistemas de planejamento de produção e aplicações para o agronegócio.
+Sou desenvolvedor full stack e estudante de Sistemas de Informação na Faculdade Libertas. Atuo como desenvolvedor solo no **ProTrack**, um ERP SaaS B2B multi-tenant voltado para pequenas e médias empresas do varejo brasileiro, desenvolvido sob a **ProTrack Solutions**. Também trabalho em projetos como desenvolvedor em outras empresas, incluindo sistemas de planejamento de produção e aplicações para o agronegócio.
 
 Gosto de projetos que exigem visão de arquitetura de ponta a ponta — do banco de dados à experiência do usuário — e tenho experiência prática com integrações de pagamento, mensageria, autenticação e infraestrutura de deploy.
 
