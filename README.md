@@ -79,10 +79,10 @@ TCC: *Modelo de Negócio Canvas para ERP SaaS Inteligente Baseado em Agentes de 
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GabrielFerrarez19&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-murex-six-39.vercel.app/api?username=GabrielFerrarez19&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GabrielFerrarez19&layout=compact&theme=tokyonight&langs_count=8&hide=shell,dockerfile" alt="Top Languages" />
+  <img src="https://github-readme-stats-murex-six-39.vercel.app/api/top-langs/?username=GabrielFerrarez19&layout=compact&theme=tokyonight&langs_count=8&hide=shell,dockerfile" alt="Top Languages" />
 </p>
 
 ---
