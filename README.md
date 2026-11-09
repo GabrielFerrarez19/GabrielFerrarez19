@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou Gabriel Ferrarez 👋</h1>
 
-<h3 align="center">Desenvolvedor Full Stack | Construindo o ProTrack, um ERP SaaS para o varejo brasileiro</h3>
+<h3 align="center">Desenvolvedor Full Stack | Construindo o ProTrack, empresa focada em soluções de software</h3>
 
 <p align="center">
   <a href="mailto:gabrielferrarez190206@gmail.com">
