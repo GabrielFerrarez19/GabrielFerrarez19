@@ -21,7 +21,7 @@ Gosto de projetos que exigem visão de arquitetura de ponta a ponta — do banco
 
 ---
 
-### 🚀 Projeto em destaque: ProTrack
+### 🚀 Projeto em destaque: ProTrack Gerencial
 
 **ERP SaaS multi-tenant para varejo**, construído do zero com arquitetura em camadas (Handler → Service → Repository):
 
