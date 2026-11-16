@@ -32,7 +32,7 @@ Gosto de projetos que exigem visão de arquitetura de ponta a ponta — do banco
 
 Principais entregas: sistema de autenticação e RBAC com controle de acesso por departamento, integração completa com a WhatsApp Business Cloud API (mensageria, cobrança por uso via Stripe Meter Events, sincronização automática), fluxo de assinaturas e pagamentos, geração de etiquetas e relatórios em PDF, dashboard financeiro e módulos de contas a pagar/receber.
 
-O ProTrack também é o estudo de caso do meu Trabalho de Conclusão de Curso, sobre modelagem de negócio para ERPs SaaS inteligentes baseados em agentes de IA.
+O ProTrack Gerencial também é o estudo de caso do meu Trabalho de Conclusão de Curso, sobre modelagem de negócio para ERPs SaaS inteligentes baseados em agentes de IA.
 
 ---
 
